@@ -1,4 +1,7 @@
 const products = [
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-07%20at%207.17.22%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3DqXG1N" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-06%20at%207.12.47%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/4bvVx1o" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-05%20at%207.32.38%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3DiSj4N" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-04%20at%206.48.27%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3Dm9l1R" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-03%20at%206.14.10%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/41GSbFp" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-01%20at%207.38.45%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3Dl3eee" },
