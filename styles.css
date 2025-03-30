@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+header {
+    padding: 15px;
+    background: white;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.username {
+    color: gray;
+}
+
+.banner {
+    background: #a8d5ff;
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+}
+
+.banner a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+/* === Grid Layout with Bigger Images & Less Margin === */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px; /* Reduced margin between images */
+    padding: 10px;
+    max-width: 1450px; /* Increased max width */
+    margin: auto;
+    
+    
+}
+
+.card {
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.card img {
+    width: 100%; /* Increased image size */
+    height: auto;
+    border-radius: 5px;
+}
+
+/* === Responsive Design for Mobile === */
+@media (max-width: 1024px) {
+    .product-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .product-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
