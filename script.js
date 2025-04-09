@@ -1,4 +1,9 @@
 const products = [
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-04-09%20at%205.44.42%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/42nSCUb" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-04-08%20at%207.44.57%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/42qkTtw" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-04-08%20at%207.46.14%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/4i5Ti6v" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-04-07%20at%206.29.49%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/4jntjZg" },
+    { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-04-07%20at%206.28.54%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/4jnOGd5" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-29%20at%206.28.58%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3E0U9aU" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-29%20at%206.29.40%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/4c8R4C1" },
     { image: "https://d3lopvpsghm5w.cloudfront.net/Screenshot%202025-03-27%20at%207.23.20%E2%80%AFPM.webp?w=100&h=100&fit=crop&auto=format", link: "https://amzn.to/3Y7N276" },
